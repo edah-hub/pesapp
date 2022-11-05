@@ -15,6 +15,7 @@
     outline: none;
     text-transform: capitalize;
     transition: all .2s linear;
+    
 
 }
 
@@ -23,7 +24,12 @@ html{
     overflow: hidden;
     scroll-padding-top: 5.5rem;
     scroll-behavior: smooth;
+    background-color: #3F3B6C;
 
+}
+
+body{
+    background-color: #3F3B6C;
 }
 
 header{
@@ -103,5 +109,15 @@ img{
     border-radius: 5px;
     margin-left: 25px;
     margin-bottom: 15%;
+}
+
+#footer{
+    text-align: center;
+    margin-left: 42%;
+    margin-bottom: 80%;
+}
+footer{
+    margin-bottom: 80%;
+    background-color: aqua;
 }
 

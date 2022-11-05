@@ -20,3 +20,9 @@ describe('HomeComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+function beforeEach(arg0: () => Promise<void>) {
+  throw new Error('Function not implemented.');
+}
+function expect(component: HomeComponent) {
+  throw new Error('Function not implemented.');
+}

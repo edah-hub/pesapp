@@ -27,6 +27,8 @@
     "@angular/cli": "~14.2.8",
     "@angular/compiler-cli": "^14.2.0",
     "@types/jasmine": "~4.0.0",
+    "@types/jest": "^29.2.2",
+    "@types/mocha": "^10.0.0",
     "angular-cli-ghpages": "^1.0.3",
     "jasmine-core": "~4.3.0",
     "karma": "~6.4.0",
